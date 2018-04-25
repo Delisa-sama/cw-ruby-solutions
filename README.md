@@ -1,2 +1,2 @@
 # cw-solutions
-There are my solutions from codewars.com
+There are my Ruby solutions from codewars.com
